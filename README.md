@@ -1,4 +1,4 @@
-# Webex-Bot-Starter
+# Webex-Bot-Project 1
 
 ### Starter kit and template for a simple Webex bot
 
